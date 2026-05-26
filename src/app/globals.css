@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  background: #000000;
+  color: white;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Mobile overflow safety — desktop layout unchanged */
+@media (max-width: 1023px) {
+  .mobile-safe-text {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+}
