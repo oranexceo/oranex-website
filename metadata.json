@@ -1,0 +1,9 @@
+{
+  "name": "ORANEX Trading & Industrial Supply Chain Portal",
+  "description": "Comprehensive B2B trade, international procurement, and construction supply chain platform for Oranex Trading One Member PLC and Our Chinese partner, featuring turnkey sourcing, Merkato wholesale consolidation, and landed cost calculator.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
