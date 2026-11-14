@@ -1,0 +1,410 @@
+{
+  "settings": {
+    "globalPause": false,
+    "contentPillars": [
+      "Construction Chemicals & OCHEMI Admixtures",
+      "Cementitious & Industrial Raw Materials",
+      "Concrete Production & Batching Equipment",
+      "Heavy Construction Machinery & Fleet",
+      "Building & Finishing Materials",
+      "Civil Engineering & Infrastructure",
+      "Industrial Supplies, Valves & Spares",
+      "Oranex Trade & International Procurement"
+    ],
+    "targetMarkets": [
+      "Ethiopia (Addis Ababa, Adama, Hawassa)",
+      "East Africa (Djibouti, Kenya, Somaliland)",
+      "Middle East Export Corridors"
+    ],
+    "supportedLanguages": [
+      "en",
+      "am",
+      "zh"
+    ],
+    "platforms": [
+      "LinkedIn",
+      "Facebook",
+      "Instagram"
+    ],
+    "callsToAction": [
+      "Request a Technical Quotation",
+      "Schedule a Laboratory Mix Trial",
+      "Connect with Our Chinese partner Sourcing Desk",
+      "Download Product Technical Datasheet",
+      "Inquire About Private-Label OEM Program"
+    ],
+    "dailyPostLimit": 4,
+    "automationStatus": "ACTIVE",
+    "requireHumanApproval": true,
+    "updatedAt": "2026-10-16T14:22:08.009Z"
+  },
+  "campaigns": [
+    {
+      "id": "camp-01",
+      "title": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Ready-Mix Batching Plants & Commercial Contractors",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31",
+      "postsCount": 6,
+      "leadsGenerated": 9,
+      "createdAt": "2026-10-16T14:21:43.848Z",
+      "updatedAt": "2026-10-17T13:08:05.251Z"
+    },
+    {
+      "id": "camp-02",
+      "title": "Our Chinese partner Direct Factory Batching Plants & Silos",
+      "pillar": "Concrete Production & Batching Equipment",
+      "targetAudience": "Infrastructure Developers & Highway Contractors",
+      "objective": "TECHNICAL_AUTHORITY",
+      "primaryCta": "Connect with Our Chinese partner Sourcing Desk",
+      "status": "ACTIVE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-11-30",
+      "postsCount": 2,
+      "leadsGenerated": 5,
+      "createdAt": "2026-10-16T14:21:43.848Z",
+      "updatedAt": "2026-10-16T14:21:43.848Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1792160512505-epnx",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "Engineering excellence in East Africa 🏗️ Spotlight on OCHEMI Crystalline Capillary Waterproofing. From high-range polycarboxylate admixtures to heavy batching systems, Oranex × Our Chinese partner provides reliable international supply and local technical backing in Addis Ababa. 📍 Request a Technical Quotation — Link in bio!",
+      "headline": "OCHEMI Crystalline Capillary Waterproofing — Instagram Variant",
+      "hashtags": [
+        "#CivilEngineering",
+        "#EthiopiaIndustry",
+        "#ConstructionAfrica",
+        "#OranexTrade"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "#construction-industrial",
+      "mediaPrompt": "Authentic industrial engineering photography representing OCHEMI Crystalline Capillary Waterproofing in African construction setting",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Accurately grounded in the Our Chinese partner strategic international supply chain.",
+        "Accurately represented Oranex Trading local engineering and market representation."
+      ],
+      "author": "ORANEX Engine (Deterministic Rule-Based)",
+      "createdAt": "2026-10-16T14:21:52.505Z",
+      "updatedAt": "2026-10-16T14:21:52.505Z"
+    },
+    {
+      "id": "post-1792160512505-21c8",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Looking to enhance performance and procurement efficiency for OCHEMI Crystalline Capillary Waterproofing? Through Oranex Trading and international partner Our Chinese partner, Ethiopian contractors can source high-grade materials and equipment directly from certified global manufacturers. Benefit from direct proforma pricing and local technical guidance in Ethiopia. Request a Technical Quotation!",
+      "headline": "OCHEMI Crystalline Capillary Waterproofing — Facebook Variant",
+      "hashtags": [
+        "#EthiopianContractors",
+        "#BuildingMaterials",
+        "#OCHEMI",
+        "#AddisAbaba"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "#construction-industrial",
+      "mediaPrompt": "Authentic industrial engineering photography representing OCHEMI Crystalline Capillary Waterproofing in African construction setting",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Accurately grounded in the Our Chinese partner strategic international supply chain.",
+        "Accurately represented Oranex Trading local engineering and market representation."
+      ],
+      "author": "ORANEX Engine (Deterministic Rule-Based)",
+      "createdAt": "2026-10-16T14:21:52.505Z",
+      "updatedAt": "2026-10-16T14:21:52.505Z"
+    },
+    {
+      "id": "post-1792160512505-2hs4",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "Technical briefing on OCHEMI Crystalline Capillary Waterproofing. High-performance infrastructure requires rigorous specification standards. Under the Oranex × Our Chinese partner international supply framework, Ethiopian contractors and ready-mix operators access factory-direct shipments with verifiable laboratory certifications (ASTM C494 / EN 934). Oranex provides on-site mix design calibration and trial evaluations in Addis Ababa. Request a Technical Quotation to consult our engineering desk.",
+      "headline": "OCHEMI Crystalline Capillary Waterproofing — LinkedIn Variant",
+      "hashtags": [
+        "#B2BSupplyChain",
+        "#EthiopiaInfrastructure",
+        "#ConcreteTechnology",
+        "#Oranex",
+        "#ACLESOUL"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "#construction-industrial",
+      "mediaPrompt": "Authentic industrial engineering photography representing OCHEMI Crystalline Capillary Waterproofing in African construction setting",
+      "mediaType": "INFOGRAPHIC",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Referenced internationally recognized concrete testing standards (ASTM/EN).",
+        "Accurately grounded in the Our Chinese partner strategic international supply chain.",
+        "Accurately represented Oranex Trading local engineering and market representation."
+      ],
+      "author": "ORANEX Engine (Deterministic Rule-Based)",
+      "createdAt": "2026-10-16T14:21:52.505Z",
+      "updatedAt": "2026-10-16T14:21:52.505Z"
+    },
+    {
+      "id": "post-01",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "headline": "Maximizing Early Compressive Strength with OCHEMI PCE 50%",
+      "caption": "In high-rise and bridge infrastructure, water reduction without slump loss is critical. OCHEMI PCE 50% Polycarboxylate Ether delivers up to 40% water reduction with ASTM C494 Type F compliance. Through the Oranex × Our Chinese partner procurement model, Ethiopian batching plants receive direct international factory supply accompanied by local mix design trial support in Addis Ababa.",
+      "hashtags": [
+        "#ConcreteTechnology",
+        "#ConstructionChemicals",
+        "#EthiopianInfrastructure",
+        "#Oranex",
+        "#ACLESOUL"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "#construction-industrial/construction-chemicals",
+      "mediaPrompt": "Commercial concrete batching plant in East Africa with mixer trucks and high-strength concrete pour",
+      "mediaType": "INFOGRAPHIC",
+      "state": "scheduled",
+      "validationStatus": "FAILED",
+      "validationIssues": [
+        {
+          "code": "PROHIBITED_PARTNER_CLAIM",
+          "message": "Content claims unauthorized partnership or exclusivity: \"caterpillar authorized dealer\". Under the approved model, Oranex facilitates procurement with Our Chinese partner.",
+          "severity": "CRITICAL"
+        },
+        {
+          "code": "UNSUPPORTED_TECHNICAL_CLAIM",
+          "message": "Unsubstantiated engineering claim detected: \"100% unbreakable concrete\". All technical claims must align with ASTM C494 or EN standards.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "groundedClaims": [],
+      "scheduledFor": "2026-10-25T14:00:00Z",
+      "author": "AI Marketing Engine (Gemini)",
+      "createdAt": "2026-10-16T14:21:43.848Z",
+      "updatedAt": "2026-10-16T14:22:11.170Z"
+    },
+    {
+      "id": "post-02",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "headline": "High-Performance Concrete Admixtures for Ethiopian Builders",
+      "caption": "Looking to optimize cement efficiency and maintain workability during long traffic transits in Addis Ababa? OCHEMI high-range water-reducing superplasticizers are available in 1000L IBC tanks and drums via Our Chinese partner direct factory supply. Contact Oranex Trading today for on-site trial mixes and sample evaluation.",
+      "hashtags": [
+        "#EthiopiaBuilding",
+        "#ConcreteAdmixtures",
+        "#OCHEMI",
+        "#AddisAbabaConstruction"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "#construction-industrial",
+      "mediaPrompt": "Concrete laboratory slump test apparatus and cylinder compression machine",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Verified packaging (1000L IBC / drums)",
+        "Verified local trial support"
+      ],
+      "author": "AI Marketing Engine (Gemini)",
+      "createdAt": "2026-10-16T14:21:43.848Z",
+      "updatedAt": "2026-10-16T14:21:43.848Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-01",
+      "timestamp": "2026-10-16T14:21:48.420Z",
+      "action": "SYSTEM_INIT",
+      "actor": "Engine Bootstrap",
+      "details": "Marketing Engine initialized with approved ORANEX knowledge base and strict policy validation.",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792160512505",
+      "timestamp": "2026-10-16T14:21:52.505Z",
+      "action": "AI_CONTENT_GENERATED",
+      "actor": "Marketing Engine",
+      "details": "Generated 3 platform variants for \"OCHEMI Crystalline Capillary Waterproofing\" in campaign \"OCHEMI PCE 50% High-Strength Ready-Mix Launch\".",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792160516046",
+      "timestamp": "2026-10-16T14:21:56.046Z",
+      "action": "GLOBAL_PAUSE_ENABLED",
+      "actor": "Administrator",
+      "details": "Global publishing pause activated. Automated posting halted.",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792160528009",
+      "timestamp": "2026-10-16T14:22:08.009Z",
+      "action": "GLOBAL_PAUSE_RESUMED",
+      "actor": "Administrator",
+      "details": "Global publishing resumed.",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792242477310",
+      "timestamp": "2026-10-17T13:07:57.310Z",
+      "action": "JOB_ENQUEUED",
+      "actor": "Administrator",
+      "details": "Enqueued job #477310 for LinkedIn at 2026-10-25T14:00:00Z.",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793446274860",
+      "timestamp": "2026-10-31T11:31:14.860Z",
+      "action": "DISPATCH_AWAITING_OAUTH",
+      "actor": "Background Worker",
+      "details": "Cannot publish Job #477310 to LinkedIn. Account setup required.",
+      "status": "WARNING"
+    }
+  ],
+  "policyViolationsBlocked": 1,
+  "jobs": [
+    {
+      "id": "job-1792242477310",
+      "postId": "post-01",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% High-Strength Ready-Mix Launch",
+      "platform": "LinkedIn",
+      "scheduledTime": "2026-10-25T14:00:00Z",
+      "status": "FAILED",
+      "attemptCount": 1,
+      "maxRetries": 3,
+      "idempotencyKey": "post-01:2026-10-25T14:00:00Z",
+      "createdAt": "2026-10-17T13:07:57.310Z",
+      "updatedAt": "2026-10-17T13:07:57.310Z",
+      "lastAttemptAt": "2026-10-31T11:31:14.859Z",
+      "errorMessage": "LinkedIn is not connected. Official OAuth app credentials and access token required. Content preserved in scheduled state."
+    }
+  ],
+  "accounts": {
+    "LinkedIn": {
+      "platform": "LinkedIn",
+      "accountName": "Oranex Trading One Member PLC",
+      "connected": false,
+      "status": "SETUP_REQUIRED",
+      "permissions": [],
+      "missingPermissions": [
+        "w_member_social",
+        "w_organization_social",
+        "r_organization_social"
+      ],
+      "lastSyncAt": "2026-10-17T13:07:33.754Z"
+    },
+    "Facebook": {
+      "platform": "Facebook",
+      "accountName": "Oranex Trading Official Page",
+      "connected": false,
+      "status": "SETUP_REQUIRED",
+      "permissions": [],
+      "missingPermissions": [
+        "pages_manage_posts",
+        "pages_read_engagement",
+        "pages_show_list"
+      ],
+      "lastSyncAt": "2026-10-17T13:07:33.754Z"
+    },
+    "Instagram": {
+      "platform": "Instagram",
+      "accountName": "@oranextrading",
+      "connected": false,
+      "status": "SETUP_REQUIRED",
+      "permissions": [],
+      "missingPermissions": [
+        "instagram_basic",
+        "instagram_content_publish",
+        "instagram_manage_comments"
+      ],
+      "lastSyncAt": "2026-10-17T13:07:33.754Z"
+    }
+  },
+  "engagements": [
+    {
+      "id": "eng-01",
+      "platform": "LinkedIn",
+      "authorName": "Eng. Yohannes Girma",
+      "authorHandle": "yohannes-girma-pe",
+      "messageText": "What is the current delivery lead time for 20 MT of OCHEMI PCE 50% to Modjo Dry Port? Can you support trial mix calibration on our batching plant?",
+      "sentiment": "INQUIRY",
+      "intent": "PROCUREMENT_INQUIRY",
+      "leadAttributed": true,
+      "suggestedReply": "Thank you Eng. Yohannes. Standard lead time via Our Chinese partner to Modjo Dry Port is 21–28 days. Our Addis Ababa engineering desk provides complimentary on-site mix trial calibration. We have connected your inquiry to our technical team.",
+      "replyStatus": "PENDING_REVIEW",
+      "createdAt": "2026-10-17T12:07:33.754Z"
+    },
+    {
+      "id": "eng-02",
+      "platform": "Facebook",
+      "authorName": "Abinet Tadesse",
+      "authorHandle": "abinet.construction",
+      "messageText": "Do you sell white cement CEM I 52.5R in 50kg bags or jumbo bags only?",
+      "sentiment": "INQUIRY",
+      "intent": "PRICE_REQUEST",
+      "leadAttributed": true,
+      "suggestedReply": "Hello Abinet. Through Our Chinese partner direct sourcing, White Cement CEM I 52.5R is available in both 50kg PP laminated bags (palletized) and 1.5 MT jumbo bags. Minimum order is 100 MT. Please submit an RFQ on our portal for formal proforma pricing.",
+      "replyStatus": "PENDING_REVIEW",
+      "createdAt": "2026-10-17T11:07:33.754Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead-1793447098237",
+      "name": "Eng. Petros Test Client",
+      "company": "Addis Ring Road Joint Venture",
+      "email": "procurement.lead@addisringroad.et",
+      "phone": "+251911234567",
+      "productOrCategory": "Turnkey Sourcing: Road Construction & Asphalt Materials",
+      "estimatedQuantity": "500 MT Bitumen 60/70 & 40 MT PCE 50%",
+      "deliveryLocation": "Modjo Dry Port",
+      "utmCampaign": "turnkey-sourcing-launch-2026",
+      "utmSource": "website",
+      "utmMedium": "boq_form",
+      "qualificationScore": 100,
+      "qualificationStatus": "SALES_QUALIFIED",
+      "createdAt": "2026-10-31T11:44:58.237Z"
+    },
+    {
+      "id": "lead-1792242485251",
+      "name": "Abebe Balcha",
+      "company": "Midroc Construction PLC",
+      "email": "abebe.b@midroc.et",
+      "phone": "+251911445566",
+      "productOrCategory": "OCHEMI PCE 50% High-Range Superplasticizer",
+      "estimatedQuantity": "40 MT",
+      "deliveryLocation": "Modjo Dry Port",
+      "utmCampaign": "ochemi-pce-launch-2026",
+      "utmSource": "linkedin",
+      "utmMedium": "social",
+      "campaignId": "camp-01",
+      "qualificationScore": 100,
+      "qualificationStatus": "SALES_QUALIFIED",
+      "createdAt": "2026-10-17T13:08:05.251Z"
+    }
+  ]
+}

@@ -1,0 +1,2029 @@
+{
+  "settings": {
+    "globalPause": false,
+    "contentPillars": [
+      "Construction Chemicals & OCHEMI Admixtures",
+      "Concrete & Batching Solutions (HZS Plants)",
+      "Construction Machinery & Heavy Fleet",
+      "Global Sourcing via ACL E-SOUL",
+      "Building & Finishing Materials",
+      "Industrial Supplies & Slurry Pumps"
+    ],
+    "targetMarkets": [
+      "Ethiopia (Addis Ababa, Adama, Hawassa, Dire Dawa)",
+      "East Africa (Kenya, Uganda, Tanzania, Rwanda)",
+      "Djibouti Logistics & Maritime Corridor",
+      "Regional African Industrial Parks"
+    ],
+    "supportedLanguages": [
+      "en",
+      "am",
+      "fr",
+      "ar",
+      "pt",
+      "sw"
+    ],
+    "platforms": [
+      "LinkedIn",
+      "Facebook",
+      "Instagram"
+    ],
+    "callsToAction": [
+      "Request a Technical Quotation",
+      "Submit a Project Requirement",
+      "Schedule Cement Compatibility Mix Trial",
+      "Inquire for Private Label / OEM Packaging",
+      "Contact International Procurement Desk"
+    ],
+    "dailyPostLimit": 4,
+    "automationStatus": "ACTIVE",
+    "requireHumanApproval": true,
+    "updatedAt": "2026-11-05T08:25:14.035Z"
+  },
+  "campaigns": [
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793867114022",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-05T08:25:14.022Z",
+      "updatedAt": "2026-11-05T08:25:14.023Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793866358929",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-05T08:12:38.929Z",
+      "updatedAt": "2026-11-05T08:12:38.931Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793822137499",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T19:55:37.499Z",
+      "updatedAt": "2026-11-04T19:55:37.501Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793822034176",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T19:53:54.176Z",
+      "updatedAt": "2026-11-04T19:53:54.177Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793782714173",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T08:58:34.173Z",
+      "updatedAt": "2026-11-04T08:58:34.174Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793778423560",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T07:47:03.560Z",
+      "updatedAt": "2026-11-04T07:47:03.562Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793776768112",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T07:19:28.112Z",
+      "updatedAt": "2026-11-04T07:19:28.113Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1793776076986",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-11-04T07:07:56.986Z",
+      "updatedAt": "2026-11-04T07:07:56.993Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792399366519",
+      "postsCount": 3,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-19T08:42:46.519Z",
+      "updatedAt": "2026-10-19T08:43:08.092Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792242494195",
+      "postsCount": 3,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-17T13:08:14.195Z",
+      "updatedAt": "2026-10-17T13:08:31.004Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792242403839",
+      "postsCount": 3,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-17T13:06:43.839Z",
+      "updatedAt": "2026-10-17T13:07:00.862Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792241977155",
+      "postsCount": 3,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-17T12:59:37.155Z",
+      "updatedAt": "2026-10-17T12:59:54.293Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792241944989",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-17T12:59:04.989Z",
+      "updatedAt": "2026-10-17T12:59:04.990Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792159615295",
+      "postsCount": 3,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-16T14:06:55.295Z",
+      "updatedAt": "2026-10-16T14:07:08.979Z"
+    },
+    {
+      "title": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Testing Engineers",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-16",
+      "endDate": "2026-12-31",
+      "id": "camp-1792159571906",
+      "postsCount": 0,
+      "leadsGenerated": 0,
+      "createdAt": "2026-10-16T14:06:11.906Z",
+      "updatedAt": "2026-10-16T14:06:11.906Z"
+    },
+    {
+      "id": "camp-01",
+      "title": "OCHEMI PCE 50% Launch — Ethiopian Infrastructure Corridor",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "targetAudience": "Ready-mix batching plant managers, precast concrete fabricators, EPC contractors",
+      "objective": "LEAD_GENERATION",
+      "primaryCta": "Request a Technical Quotation",
+      "status": "ACTIVE",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31",
+      "postsCount": 3,
+      "leadsGenerated": 14,
+      "createdAt": "2026-10-01T08:00:00Z",
+      "updatedAt": "2026-10-15T12:00:00Z"
+    },
+    {
+      "id": "camp-02",
+      "title": "ACL E-SOUL Direct Sourcing — Commercial Batching Plants",
+      "pillar": "Concrete & Batching Solutions (HZS Plants)",
+      "targetAudience": "Infrastructure developers, quarry operators, municipal water contractors",
+      "objective": "PRODUCT_LAUNCH",
+      "primaryCta": "Explore Batching Solutions",
+      "status": "ACTIVE",
+      "startDate": "2026-10-10",
+      "endDate": "2026-11-30",
+      "postsCount": 2,
+      "leadsGenerated": 8,
+      "createdAt": "2026-10-10T09:30:00Z",
+      "updatedAt": "2026-10-14T15:00:00Z"
+    }
+  ],
+  "posts": [
+    {
+      "campaignId": "camp-1792399366519",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "Superior slump. Extreme strength. Optimized mix economics. 🏗️💧\n\nOCHEMI Polycarboxylate Ether (PCE 50%) brings high-range water reduction (ASTM C494 Type F/G) directly to structural concrete projects across Ethiopia.\n\nEngineered for:\n🧪 Up to 40% water-cement ratio reduction\n⚡ High early and final compressive strength\n⏱️ Extended workability and slump retention for pumping\n🛡️ Increased durability and reduced permeability\n\n📦 Sourcing & Transit:\nSupplied directly through our international manufacturing partner ACL E-SOUL, with end-to-end local coordination by Oranex Trading (Addis Ababa). Shipped via Djibouti to Modjo Dry Port (30-45 days lead time).\n\nModernize your ready-mix formulations.\n📩 Tap the link in bio to Request a Technical Quotation.",
+      "headline": "Precision Chemistry for High-Performance Concrete: OCHEMI PCE 50%",
+      "hashtags": [
+        "#OCHEMI",
+        "#Superplasticizer",
+        "#ConcreteTechnology",
+        "#ConstructionEthiopia",
+        "#CivilEngineering",
+        "#ORANEX",
+        "#StructuralEngineering"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "High-contrast minimalist industrial shot: A golden-amber droplet of OCHEMI Polycarboxylate Ether falling into a crystalline water meniscus, set against a dark textured concrete background. Sharp lighting, ultra-modern aesthetic, laboratory-grade cleanliness.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792399388092-170s",
+      "createdAt": "2026-10-19T08:43:08.092Z",
+      "updatedAt": "2026-10-19T08:43:08.092Z"
+    },
+    {
+      "campaignId": "camp-1792399366519",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Contractors and ready-mix batching managers in Ethiopia: Are you looking to achieve higher compressive strength without fighting rapid slump loss in transit?\n\nOCHEMI Polycarboxylate Ether (PCE 50%) is formulated to deliver high-range water reduction (ASTM C494 Type F/G compliant), ensuring superior self-leveling performance and exceptional slump life for commercial slabs, foundations, and bridge decks.\n\nWhy batching plants trust OCHEMI PCE:\n✔ Major water reduction (up to 40%) for dense, high-durability concrete\n✔ Excellent flowability and pumpability with minimal segregation or bleeding\n✔ Higher early strength for faster formwork turnover\n✔ Compatible with various types of Portland cement used in Ethiopia\n\nSupply & Logistics Coordination:\nOrders are procured directly via ACL E-SOUL for international export supply, with complete logistics tracking and technical support handled by Oranex Trading One Member PLC through the Djibouti-Modjo corridor (30-45 day standard shipping cycles).\n\nUpgrade your mix design efficiency and lower production costs. Contact Oranex today to Request a Technical Quotation.",
+      "headline": "Boost Concrete Strength and Pumping Workability with OCHEMI PCE 50%",
+      "hashtags": [
+        "#EthiopianConstruction",
+        "#OCHEMI",
+        "#ConcreteBatching",
+        "#PCEAdmixture",
+        "#CivilContractors",
+        "#OranexSupply"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A dynamic jobsite photograph in an urban Ethiopian development showing smooth, high-workability concrete flowing seamlessly from a boom pump into reinforced foundation formwork. Construction engineers wearing high-visibility vests and safety helmets inspect the clean pour. Bright daytime lighting, crisp focus, commercial contractor grade.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792399388091-urwi",
+      "createdAt": "2026-10-19T08:43:08.091Z",
+      "updatedAt": "2026-10-19T08:43:08.091Z"
+    },
+    {
+      "campaignId": "camp-1792399366519",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "In modern infrastructure and ready-mix production across Ethiopia, balancing aggressive water reduction with extended slump retention is critical for structural integrity.\n\nIntroducing OCHEMI Polycarboxylate Ether (PCE 50% Liquid Content), engineered specifically to comply with ASTM C494 Type F (High-Range Water-Reducing) and Type G (High-Range Water-Reducing & Retarding) specifications.\n\nKey Technical Parameters & Performance:\n- High Water Reduction: Up to 35-40% reduction in w/c ratio while preserving rheology\n- Strength Development: Substantial gains in early (3-day/7-day) and 28-day compressive strength\n- Slump Retention: Maintained flowability for extended transport times and heavy pumping operations\n- Optimized Hydration: Minimizes drying shrinkage, creep, and permeability in high-grade mixes (C35 to C60+)\n\nProcurement & Sourcing Structure:\nORANEX coordinates localized technical evaluations, mix-design optimization, and supply scheduling for Ethiopian contractors and commercial batching plants. Shipments are sourced internationally in direct partnership with ACL E-SOUL, routing through Djibouti Port to Modjo Dry Port / Kality with a structured lead time of 30-45 days.\n\nEnhance batch economics, cut cement demand per cubic meter, and deliver high-performance structural pours reliably.\n\nReady to formulate your next project mix? Request a Technical Quotation today.",
+      "headline": "Engineering High-Performance Concrete: OCHEMI PCE 50% High-Range Water Reducer",
+      "hashtags": [
+        "#ConcreteAdmixtures",
+        "#PolycarboxylateEther",
+        "#CivilEngineeringEthiopia",
+        "#OCHEMI",
+        "#ConstructionChemicals",
+        "#ReadyMixConcrete",
+        "#Oranex"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Professional B2B engineering photography: A clear laboratory beaker pouring amber-tinted polycarboxylate ether PCE liquid onto a clean inspection table next to a calibrated concrete slump cone test on a polished metal baseplate. In the background, a ready-mix concrete plant under natural overcast light. Clean industrial aesthetic, high depth-of-field, 8k resolution.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792399388089-09n0",
+      "createdAt": "2026-10-19T08:43:08.089Z",
+      "updatedAt": "2026-10-19T08:43:08.089Z"
+    },
+    {
+      "campaignId": "camp-1792242494195",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "Consistency on the slump table means reliability on the jobsite. 🏗️✨\n\nOCHEMI Polycarboxylate Ether (PCE 50%) delivers next-generation water reduction and rheology control for Ethiopia's high-rise and infrastructure projects.\n\n🔬 Technical Highlights:\n• ASTM C494 Type F/G Compliant\n• High water reduction up to 40%\n• Exceptional slump retention in warm climates\n• Designed for C40, C50 & C60 high-performance mixes\n• 50% Active Solid Content (ideal for formulators & ready-mix plants)\n\n📦 Global Sourcing via ACL E-SOUL\n📍 Coordinated locally in Addis Ababa by ORANEX\n🚢 Shipped via Djibouti to Modjo/Kality (30–45 days typical transit)\n\nReady to optimize your cement efficiency?\n👉 Request a Technical Quotation. Send us a DM or contact our engineering desk.",
+      "headline": "Engineered Flow. Maximum Strength. OCHEMI PCE 50%.",
+      "hashtags": [
+        "#OCHEMI",
+        "#Oranex",
+        "#ConcreteTechnology",
+        "#ConstructionEthiopia",
+        "#StructuralEngineering",
+        "#PCEAdmixture",
+        "#CivilEngineering"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A high-contrast, clean aesthetic product shot featuring an inverted slump cone test with mirror-smooth, fluid concrete spreading evenly over a marked measurement grid. Beside it stands a clean translucent sample bottle of clear amber OCHEMI PCE 50% liquid with an engineered label. Modern minimalist studio-meets-jobsite background, sharp focus, professional depth of field.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242511004-kel6",
+      "createdAt": "2026-10-17T13:08:31.004Z",
+      "updatedAt": "2026-10-17T13:08:31.004Z"
+    },
+    {
+      "campaignId": "camp-1792242494195",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Looking to produce high-strength, pumpable concrete that doesn't lose slump before reaching the jobsite?\n\nORANEX brings Ethiopian contractors and batching plants OCHEMI Polycarboxylate Ether (PCE 50% liquid), a world-class concrete admixture base formulated for demanding structural applications.\n\nWhy batching plants rely on OCHEMI PCE:\n✅ Up to 40% Water Reduction: Achieve higher compressive strength with less cement.\n✅ Extended Workability: Keeps concrete flowing smoothly even during long truck transits in Addis Ababa.\n✅ Superior Pumpability: Delivers self-compacting, segregation-free concrete for heavily reinforced elements and high-rise casting.\n✅ Economical Formulation: 50% solid content allows flexible blending or direct plant dosage.\n\nReliable Global Sourcing & Local Support:\nSourced internationally through ACL E-SOUL with seamless transit through Djibouti Port directly to Modjo or Kality, supported by Oranex's on-the-ground technical team.\n\nReady to test OCHEMI PCE in your mix design?\n\nRequest a Technical Quotation today! Contact Oranex Trading to discuss technical specs, packaging options (drums/IBCs), and delivery timelines.",
+      "headline": "Upgrade Your Concrete Slump & Strength: OCHEMI PCE 50% High-Range Superplasticizers",
+      "hashtags": [
+        "#EthiopiaConstruction",
+        "#ConcreteAdmixtures",
+        "#OCHEMI",
+        "#BatchingPlantEthiopia",
+        "#CivilEngineeringAddis",
+        "#OranexSupply"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A heavy-duty concrete pump truck discharging high-slump, fluid self-leveling concrete onto a reinforced foundation slab on a sunny day in Ethiopia. In the corner, a clean technical overlay of an industrial 1000-liter IBC tote showing the OCHEMI branding and specification icons for 50% PCE liquid. Practical, vivid, contractor-grade commercial visual.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242511003-rcq8",
+      "createdAt": "2026-10-17T13:08:31.003Z",
+      "updatedAt": "2026-10-17T13:08:31.003Z"
+    },
+    {
+      "campaignId": "camp-1792242494195",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "For commercial ready-mix plants, precast fabricators, and infrastructure developers across Ethiopia, achieving high early and ultimate compressive strength while maintaining extended slump retention is a critical engineering challenge.\n\nORANEX presents OCHEMI Polycarboxylate Ether (PCE 50% liquid concentrate)—engineered to meet rigorous ASTM C494 Type F (high-range water-reducing) and Type G (water-reducing and retarding) specifications.\n\nKey Technical Parameters & Performance Capabilities:\n- Active Solid Content: ~50% aqueous solution, ideal for local admixture blending or direct high-performance dosing.\n- Water Reduction Ratio: Up to 35–40% at optimized dosages, substantially lowering the water-cement (w/c) ratio to achieve C50+ high-performance concrete.\n- Rheology & Slump Retention: Superior steric hindrance mechanisms minimize workability loss during transit across Addis Ababa metropolitan traffic and extended haul distances.\n- Compatibility: Fully tested across regional ordinary Portland cement (OPC) and blended cement variants with mineral admixtures (fly ash, silica fume).\n\nProcurement & Supply Chain Model:\nThrough our international sourcing partnership with ACL E-SOUL, Ethiopian contractors and chemical formulators procure directly from world-class manufacturing lines with verified Quality Assurance (COA/MTC). Oranex provides comprehensive in-country technical support, mix design advisory, and end-to-end logistics coordination via the Djibouti–Modjo multimodal trade corridor (standard lead time: 30–45 days).\n\nAdvance your structural mix designs with certified chemistry.\n\nRequest a Technical Quotation and Technical Data Sheet (TDS) today via our technical sales desk.",
+      "headline": "Engineering High-Performance Concrete in Ethiopia: OCHEMI PCE 50% Superplasticizer Solutions",
+      "hashtags": [
+        "#ConstructionChemicals",
+        "#PCE",
+        "#ReadyMixEthiopia",
+        "#StructuralEngineering",
+        "#HighStrengthConcrete",
+        "#InfrastructureDevelopment",
+        "#Oranex"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Industrial photography of an automated concrete batching laboratory in Addis Ababa. In the foreground, an ASTM slump flow test of self-consolidating concrete with a wide spread measurement on a steel baseplate. Next to it, an OCHEMI-branded 1000L intermediate bulk container (IBC) holding clear amber PCE liquid. In the background, engineering blueprints and concrete test cubes with technical testing equipment. Crisp architectural lighting, ultra-realistic B2B industrial tone.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242511002-vcw0",
+      "createdAt": "2026-10-17T13:08:31.002Z",
+      "updatedAt": "2026-10-17T13:08:31.002Z"
+    },
+    {
+      "campaignId": "camp-1792242403839",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "High-performance concrete requires precise chemical engineering. 🏗️🧪\n\nOCHEMI Polycarboxylate Ether (PCE) 50% is built for heavy-duty infrastructure and high-rise construction:\n\n🔹 ASTM C494 Type F & G High-Range Water Reduction\n🔹 Up to 40% water cut for high-density, low-permeability concrete\n🔹 Extended slump retention for congested urban haul routes\n🔹 High early strength gain to speed up stripping cycles\n\nDirect international export supply via ACL E-SOUL with local technical support from Oranex Trading One Member PLC in Addis Ababa. Standard transit via Djibouti Port to Modjo Dry Port (30–45 days).\n\nUpgrade your mix design.\n📩 Request a Technical Quotation via DM or email.",
+      "headline": "Engineered Flow. Maximum Strength. OCHEMI PCE 50%.",
+      "hashtags": [
+        "#CivilEngineering",
+        "#ConcreteAdmixture",
+        "#PCE50",
+        "#OCHEMI",
+        "#Oranex",
+        "#AddisAbabaConstruction",
+        "#MaterialsEngineering",
+        "#ConcreteTech"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A minimalist, aesthetic architectural render showing fluid dynamics of self-compacting concrete flowing smoothly around dense rebar mesh. Next to it, an amber laboratory flask of 50% PCE liquid reflects crisp studio lighting against a dark slate industrial background with clean technical typography.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242420862-16c1",
+      "createdAt": "2026-10-17T13:07:00.862Z",
+      "updatedAt": "2026-10-17T13:07:00.862Z"
+    },
+    {
+      "campaignId": "camp-1792242403839",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Are your batch plants struggling with slump loss and high cement consumption in high-rise or bridge pours?\n\nUpgrade your mix design with OCHEMI Polycarboxylate Ether (PCE) 50% High-Range Water Reducer. Designed specifically to meet ASTM C494 specifications, OCHEMI PCE gives ready-mix batching plants and commercial contractors complete control over workability and compressive strength.\n\nWhy Ethiopian concrete producers rely on OCHEMI PCE:\n✅ Achieve over 35%–40% water reduction for ultra-dense, durable concrete.\n✅ Keep concrete pumpable through heavy Addis traffic without flash-setting.\n✅ Lower overall cement content while reaching your required 7-day and 28-day MPa targets.\n\nSupply & Logistics:\nProcure directly via international export supply through our partner ACL E-SOUL, with end-to-end local support and corridor coordination through Oranex Trading One Member PLC in Addis Ababa. Ocean freight routes through Djibouti Port directly to Modjo Dry Port (30–45 days realistic transit lead time).\n\nReady to formulate higher-performing concrete at better batch economy?\n\n👉 Request a Technical Quotation today by contacting Oranex directly via inbox or visiting our office.",
+      "headline": "Maximize Slump Life & Strength on Your Jobsite with OCHEMI PCE 50%",
+      "hashtags": [
+        "#EthiopianConstruction",
+        "#ReadyMixConcrete",
+        "#OCHEMI",
+        "#OranexTrading",
+        "#ConcreteAdmixtures",
+        "#BuildingEthiopia"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A realistic construction site photo at golden hour in Addis Ababa showing a concrete boom pump pouring high-flow concrete into foundation rebar. A close-up inset shows an industrial IBC tote with chemical labeling and technical viscosity testing. Crisp contrast, practical industrial field photography.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242420862-h5eo",
+      "createdAt": "2026-10-17T13:07:00.862Z",
+      "updatedAt": "2026-10-17T13:07:00.862Z"
+    },
+    {
+      "campaignId": "camp-1792242403839",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "For structural engineers, ready-mix concrete (RMC) producers, and infrastructure contractors across Ethiopia, achieving high early and ultimate compressive strength while maintaining extended workability remains a primary formulation challenge.\n\nOCHEMI Polycarboxylate Ether (PCE) 50% Liquid Superplasticizer is engineered to meet ASTM C494 Type F (high-range water-reducing) and Type G (water-reducing and retarding) performance criteria. By utilizing steric hindrance molecular architecture, OCHEMI PCE achieves up to 40% water reduction at lower dosages compared to conventional SNF-based admixtures, enabling exceptionally low water-binder ratios (w/b < 0.32) without segregation.\n\nTechnical & Commercial Advantages:\n• High Workability Retention: Extended slump retention tailored for long haul times across metropolitan Addis Ababa and regional corridors.\n• Superior Strength Development: Accelerates early-age strength gain for faster formwork turnover and elevated 28-day characteristic design strengths (C35/C45+).\n• Direct International Procurement: Commercial supply is contracted directly through our international sourcing partner, ACL E-SOUL, backed by local technical coordination and logistical oversight from Oranex Trading One Member PLC.\n• Predictable Logistics: Shipped via standard containerized ocean freight to Djibouti Port, with customs clearance transit to Modjo Dry Port / Kality (typical transit cycle: 30–45 days).\n\nElevate your concrete performance with calibrated chemical solutions.\n\nRequest a Technical Quotation and TDS/MSDS package from our engineering team today.",
+      "headline": "Optimizing High-Strength Mix Designs: OCHEMI PCE 50% Liquid Superplasticizer for Ethiopian Infrastructure",
+      "hashtags": [
+        "#ConcreteTechnology",
+        "#PolycarboxylateEther",
+        "#ConstructionChemicals",
+        "#CivilEngineeringEthiopia",
+        "#InfrastructureDevelopment",
+        "#OCHEMI",
+        "#Oranex"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A sharp, high-resolution industrial photograph showing a civil engineering materials testing lab. In the foreground, a clear glass beaker containing transparent amber OCHEMI Polycarboxylate Ether (PCE) liquid beside a standardized concrete slump test cone showing high-flow self-compacting concrete on a steel baseplate. In the background, branded 1,000L intermediate bulk container (IBC) totes inside a clean batching facility. Cool daylight balanced lighting, ISO 200, depth of field focused on the slump flow.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792242420861-0kax",
+      "createdAt": "2026-10-17T13:07:00.861Z",
+      "updatedAt": "2026-10-17T13:07:00.861Z"
+    },
+    {
+      "campaignId": "camp-1792241977155",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "High strength starts with targeted molecular dispersion. 🏗️💧\n\nOCHEMI Polycarboxylate Ether (PCE 50%) delivers maximum water reduction and slump retention for high-performance concrete projects in Ethiopia.\n\n⚡ Up to 40% water reduction (ASTM C494 Type F/G)\n⚡ Optimized for C35–C60+ high-strength mixes\n⚡ Eliminates honeycombing in congested structural elements\n⚡ Sourced directly via ACL E-SOUL with local Oranex coordination\n⚡ Direct shipping corridor: Djibouti Port ➔ Modjo Dry Port (30–45 days)\n\nElevate your concrete quality control from foundation to superstructure.\n\n📩 Request a Technical Quotation via DM or link in bio.",
+      "headline": "Precision Chemistry for Stronger Concrete: OCHEMI PCE 50%",
+      "hashtags": [
+        "#OCHEMI",
+        "#ConcreteEngineering",
+        "#EthiopianContractors",
+        "#StructuralEngineering",
+        "#ConstructionChemicals",
+        "#OranexSupply",
+        "#AddisAbabaConstruction"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A striking architectural minimalist render of a modern concrete bridge pier under dramatic Ethiopian morning sunlight, juxtaposed with a sleek laboratory dropper bottle showing viscous golden-amber PCE superplasticizer against a charcoal slate background.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792241994293-86ez",
+      "createdAt": "2026-10-17T12:59:54.293Z",
+      "updatedAt": "2026-10-17T12:59:54.293Z"
+    },
+    {
+      "campaignId": "camp-1792241977155",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Are you balancing high strength requirements with workability challenges on your jobsite? \n\nOCHEMI Polycarboxylate Ether (PCE) 50% is formulated for high-range water reduction, allowing ready-mix batching plants and precast yards to cut water demand by up to 35-40% while preserving excellent flowability.\n\nKey Jobsite Advantages:\n• Higher 7-day and 28-day concrete strength\n• Prevents bleeding and segregation during long transport times\n• Reduces cement consumption without sacrificing target MPA\n• Meets international ASTM C494 Type F & G specifications\n\nHow We Supply Your Projects:\nORANEX coordinates your industrial chemical procurement in partnership with international supplier ACL E-SOUL. Shipments are imported via Djibouti Port directly to Modjo Dry Port or Kality (typical ocean freight and transit lead time: 30–45 days).\n\nEquip your batching facility with proven chemical performance.\n\nRequest a Technical Quotation today by contacting the ORANEX engineering team in Addis Ababa.",
+      "headline": "Upgrade Your Concrete Mix: OCHEMI PCE 50% Superplasticizer for Ethiopian Contractors & Precast Plants",
+      "hashtags": [
+        "#EthiopianConstruction",
+        "#ReadyMixEthiopia",
+        "#PrecastConcrete",
+        "#ConcreteAdmixtures",
+        "#OCHEMI",
+        "#OranexTrading"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A realistic construction site photo in Addis Ababa showing a fresh concrete pour with high workability flowing effortlessly through rebar into formwork, accompanied by an inset photo of clean blue intermediate bulk containers (IBC totes) labeled OCHEMI.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792241994292-3vt8",
+      "createdAt": "2026-10-17T12:59:54.292Z",
+      "updatedAt": "2026-10-17T12:59:54.292Z"
+    },
+    {
+      "campaignId": "camp-1792241977155",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "For structural engineers, commercial ready-mix operators, and infrastructure contractors across Ethiopia, achieving high compressive strength while maintaining extended slump life is critical under demanding site conditions.\n\nOCHEMI Polycarboxylate Ether (PCE) Liquid (50% Solid Content) is engineered to meet ASTM C494 Type F (high-range water reducer) and Type G (water-reducing and retarding) performance criteria. By delivering water reduction capabilities exceeding 30–40%, OCHEMI PCE enables substantial water-to-cement ratio reduction, optimizing mix designs for C35 to C60+ concrete grades, precast elements, and congested rebar pours.\n\nTechnical Parameters & Performance:\n• High early and ultimate compressive strength development\n• Superior dispersion and workability retention without segregation\n• Cement optimization, reducing raw binder demand per cubic meter\n• Compatible with standard OPC and blended cements utilized in Ethiopian infrastructure\n\nProcurement & Supply Chain Model:\nThrough our established international supply partnership with ACL E-SOUL, industrial clients procure high-purity chemical raw materials directly from global manufacturing sources, fully supported by ORANEX's local technical coordination in Addis Ababa. Standard ocean transit routes via Djibouti Port to Modjo Dry Port / Kality offer dependable lead times of 30 to 45 days.\n\nRequest a Technical Quotation and TDS/MSDS documentation for your commercial batching requirements today.",
+      "headline": "Engineering High-Performance Concrete in Ethiopia: OCHEMI 50% PCE Superplasticizer",
+      "hashtags": [
+        "#ConcreteTechnology",
+        "#CivilEngineeringEthiopia",
+        "#ConstructionChemicals",
+        "#OCHEMI",
+        "#ReadyMixConcrete",
+        "#Oranex"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "A sharp, high-end industrial engineering photograph showing a controlled concrete slump flow test on a steel baseplate in an Ethiopian infrastructure lab. A transparent graduated cylinder containing amber-clear OCHEMI PCE liquid stands nearby on a technical data sheet. Clean lighting, professional depth of field, 8k resolution.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792241994292-gjpn",
+      "createdAt": "2026-10-17T12:59:54.292Z",
+      "updatedAt": "2026-10-17T12:59:54.292Z"
+    },
+    {
+      "campaignId": "camp-1792159615295",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "Built for performance. Engineered for endurance.\n\nOCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete connects Ethiopian industrial builders with certified international manufacturing through ACL E-SOUL.\n\n• Verified ASTM/EN specifications\n• Consolidated ocean shipping to Djibouti\n• Local engineering follow-up in Addis Ababa\n\nRequest a Technical Quotation — tap the link in bio to start your procurement request.",
+      "headline": "OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete | Global Sourcing & Supply",
+      "hashtags": [
+        "#IndustrialDesign",
+        "#InfrastructureAfrica",
+        "#CivilEngineering",
+        "#Oranex"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Aesthetic editorial photograph of OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete showcased against architectural concrete and steel background.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792159628979-5dj0",
+      "createdAt": "2026-10-16T14:07:08.979Z",
+      "updatedAt": "2026-10-16T14:07:08.979Z"
+    },
+    {
+      "campaignId": "camp-1792159615295",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "en",
+      "caption": "Scaling your project output requires dependable input pipelines. OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete delivers certified industrial performance without intermediary markups. Coordinated directly via ACL E-SOUL with local support from Oranex Trading One Member PLC.\n\nRequest a Technical Quotation — get in touch with our commercial procurement team.",
+      "headline": "OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete for Ethiopian Contractors & Manufacturers",
+      "hashtags": [
+        "#EthiopiaBusiness",
+        "#ConstructionSupply",
+        "#OranexTrade"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Vibrant photograph of a modern construction project in Ethiopia showing equipment and materials in active use.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792159628978-5mlc",
+      "createdAt": "2026-10-16T14:07:08.978Z",
+      "updatedAt": "2026-10-16T14:07:08.978Z"
+    },
+    {
+      "campaignId": "camp-1792159615295",
+      "campaignTitle": "Automated Test Infrastructure Campaign",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "Uncompromising technical specifications for demanding African infrastructure: OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete. Sourced in direct partnership with ACL E-SOUL with verified manufacturer documentation, pre-shipment quality inspection, and multimodal transit to Djibouti Port and Modjo Dry Port.\n\nOur Addis Ababa engineering team provides on-site technical alignment and batching trial support.\n\nRequest a Technical Quotation: Contact Oranex procurement desk today.",
+      "headline": "OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete — Verified Global Sourcing for Ethiopian Industry",
+      "hashtags": [
+        "#B2BProcurement",
+        "#OranexSupply",
+        "#IndustrialEthiopia",
+        "#EngineeringExcellence"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Technical close-up photograph of OCHEMI Polycarboxylate Ether PCE 50% Water Reduction for High-Strength Concrete in an organized industrial engineering testing laboratory in East Africa.",
+      "mediaType": "IMAGE",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "id": "post-1792159628977-kzz6",
+      "createdAt": "2026-10-16T14:07:08.977Z",
+      "updatedAt": "2026-10-16T14:07:08.977Z"
+    },
+    {
+      "id": "post-01",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% Launch — Ethiopian Infrastructure Corridor",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "LinkedIn",
+      "language": "en",
+      "caption": "High-strength concrete requires uncompromising chemical stability. OCHEMI Polycarboxylate Ether (PCE 50%) is engineered specifically for Ethiopian ready-mix and precast projects using local cement types. Sourced directly through ACL E-SOUL with ASTM C494 Type F & G compliance, OCHEMI provides over 30% water reduction with optimal slump retention.\n\nConnect with our Addis Ababa engineering desk for cement compatibility mix trials and containerized delivery to Modjo Dry Port.",
+      "headline": "High-Performance Concrete Admixtures Tailored for Ethiopian Mega Projects",
+      "hashtags": [
+        "#ConstructionEthiopia",
+        "#ConcreteTechnology",
+        "#OCHEMI",
+        "#CivilEngineering",
+        "#AddisAbabaInfrastructure"
+      ],
+      "callToAction": "Request a Technical Quotation",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Professional laboratory technician performing slump-flow test on high-performance concrete cylinder with OCHEMI PCE admixture in industrial testing facility.",
+      "mediaType": "IMAGE",
+      "state": "validated",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "scheduledFor": "2026-10-18T10:00:00Z",
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "createdAt": "2026-10-15T09:00:00Z",
+      "updatedAt": "2026-10-15T09:05:00Z"
+    },
+    {
+      "id": "post-02",
+      "campaignId": "camp-01",
+      "campaignTitle": "OCHEMI PCE 50% Launch — Ethiopian Infrastructure Corridor",
+      "pillar": "Construction Chemicals & OCHEMI Admixtures",
+      "platform": "Facebook",
+      "language": "am",
+      "caption": "ለኮንክሪት ስራዎችዎ ከፍተኛ ጥንካሬና ቅልጥፍና የሚሰጡ የኦቼሚ (OCHEMI) ፖሊካርቦክሲሌት ኤተር (PCE 50%) አድሚክስቸሮች። በኢትዮጵያ የሚገኙ የሲሚንቶ አይነቶች ጋር የተጣጣሙና በ ASTM C494 ደረጃዎች የተረጋገጡ። ከዓለም አቀፍ አጋራችን ACL E-SOUL ጋር በመተባበር ቀጥታ ወደ ሞጆ ደረቅ ወደብ እና አዲስ አበባ ይቀርባሉ።\n\nለሙከራና ዋጋ ማቅረቢያ ጥያቄ አሁኑኑ ያነጋግሩን።",
+      "headline": "የኮንክሪት ጥንካሬ ማሻሻያ አድሚክስቸሮች",
+      "hashtags": [
+        "#ኢትዮጵያ",
+        "#ኮንስትራክሽን",
+        "#ኦራኔክስ",
+        "#ኮንክሪት"
+      ],
+      "callToAction": "የዋጋ ማቅረቢያ ይጠይቁ",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Transit mixer fleet loading at concrete batching plant in Ethiopia under bright daylight.",
+      "mediaType": "IMAGE",
+      "state": "scheduled",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Positions OCHEMI specialist chemical program",
+        "References verified engineering standards (ASTM / EN / ISO)",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "scheduledFor": "2026-10-19T08:30:00Z",
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "createdAt": "2026-10-15T11:00:00Z",
+      "updatedAt": "2026-10-15T11:10:00Z"
+    },
+    {
+      "id": "post-03",
+      "campaignId": "camp-02",
+      "campaignTitle": "ACL E-SOUL Direct Sourcing — Commercial Batching Plants",
+      "pillar": "Concrete & Batching Solutions (HZS Plants)",
+      "platform": "Instagram",
+      "language": "en",
+      "caption": "Powering heavy industrial production: HZS90 Stationary Batching Plant delivering 90 m³/h output with twin-shaft JS1500 mixer and automated Siemens PLC batching accuracy.\n\nSourced directly from ISO-certified overseas manufacturing lines through ACL E-SOUL. Coordinated civil foundation layouts, sea freight to Djibouti, and inland engineering support in Ethiopia.\n\nTap link in bio to explore plant specifications or discuss turnkey project procurement.",
+      "headline": "HZS90 Heavy Ready-Mix Concrete Batching Plants",
+      "hashtags": [
+        "#ConcretePlant",
+        "#BatchingPlant",
+        "#CivilEngineering",
+        "#EquipmentProcurement",
+        "#OranexSupply"
+      ],
+      "callToAction": "Explore Batching Solutions",
+      "ctaUrl": "https://oranex.com.et/construction-industrial",
+      "mediaPrompt": "Towering modern concrete batching plant with cement silos and aggregate conveyors operating in East Africa.",
+      "mediaType": "CAROUSEL",
+      "state": "draft",
+      "validationStatus": "PASSED",
+      "validationIssues": [],
+      "groundedClaims": [
+        "Identifies Oranex Trading One Member PLC",
+        "Grounded in ACL E-SOUL international sourcing partnership",
+        "Grounded in authentic Djibouti–Modjo dry port transit corridor"
+      ],
+      "author": "AI Content Studio (Gemini 3.8 Flash)",
+      "createdAt": "2026-10-15T14:20:00Z",
+      "updatedAt": "2026-10-15T14:20:00Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1793867114036-5uc2",
+      "timestamp": "2026-11-05T08:25:14.036Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793867114023-ohbe",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793867114035-r36n",
+      "timestamp": "2026-11-05T08:25:14.035Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793867114023-ohbe status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793867114035-nge1",
+      "timestamp": "2026-11-05T08:25:14.035Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793867114034-oik1",
+      "timestamp": "2026-11-05T08:25:14.034Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793867114023-ohbe",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793867114024-fsqv",
+      "timestamp": "2026-11-05T08:25:14.024Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793867114023-k41b",
+      "timestamp": "2026-11-05T08:25:14.023Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793867114023-ohbe status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793867114023-xiqq",
+      "timestamp": "2026-11-05T08:25:14.023Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793867114023-ohbe (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793867114022-emm6",
+      "timestamp": "2026-11-05T08:25:14.022Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358943-c3ne",
+      "timestamp": "2026-11-05T08:12:38.943Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793866358931-456p",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358942-je8d",
+      "timestamp": "2026-11-05T08:12:38.942Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793866358931-456p status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358941-nrep",
+      "timestamp": "2026-11-05T08:12:38.941Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358941-06la",
+      "timestamp": "2026-11-05T08:12:38.941Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793866358931-456p",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793866358936-cd0i",
+      "timestamp": "2026-11-05T08:12:38.936Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793866358935-202r",
+      "timestamp": "2026-11-05T08:12:38.935Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793866358931-456p status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358931-4eai",
+      "timestamp": "2026-11-05T08:12:38.931Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793866358931-456p (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793866358929-6sew",
+      "timestamp": "2026-11-05T08:12:38.929Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137508-pwni",
+      "timestamp": "2026-11-04T19:55:37.508Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793822137501-dfdv",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137507-5s1f",
+      "timestamp": "2026-11-04T19:55:37.507Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793822137501-dfdv status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137506-0icd",
+      "timestamp": "2026-11-04T19:55:37.506Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137506-v0ip",
+      "timestamp": "2026-11-04T19:55:37.506Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793822137501-dfdv",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793822137506-yl30",
+      "timestamp": "2026-11-04T19:55:37.506Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793822137502-d3dg",
+      "timestamp": "2026-11-04T19:55:37.502Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793822137501-dfdv status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137501-4vsj",
+      "timestamp": "2026-11-04T19:55:37.501Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793822137501-dfdv (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822137499-sv7g",
+      "timestamp": "2026-11-04T19:55:37.499Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034184-a2ol",
+      "timestamp": "2026-11-04T19:53:54.184Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793822034177-6ndf",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034182-6pt9",
+      "timestamp": "2026-11-04T19:53:54.182Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793822034177-6ndf status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034181-ujwu",
+      "timestamp": "2026-11-04T19:53:54.181Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034181-sv5k",
+      "timestamp": "2026-11-04T19:53:54.181Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793822034177-6ndf",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793822034180-e358",
+      "timestamp": "2026-11-04T19:53:54.180Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793822034178-afh6",
+      "timestamp": "2026-11-04T19:53:54.178Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793822034177-6ndf status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034177-6dgx",
+      "timestamp": "2026-11-04T19:53:54.177Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793822034177-6ndf (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793822034176-yeav",
+      "timestamp": "2026-11-04T19:53:54.176Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714178-0ulc",
+      "timestamp": "2026-11-04T08:58:34.178Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793782714174-ob2u",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714177-ear4",
+      "timestamp": "2026-11-04T08:58:34.177Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793782714174-ob2u status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714176-wm32",
+      "timestamp": "2026-11-04T08:58:34.176Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714176-aic4",
+      "timestamp": "2026-11-04T08:58:34.176Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793782714174-ob2u",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793782714176-8bqc",
+      "timestamp": "2026-11-04T08:58:34.176Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793782714175-2wvf",
+      "timestamp": "2026-11-04T08:58:34.175Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793782714174-ob2u status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714174-0nrk",
+      "timestamp": "2026-11-04T08:58:34.174Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793782714174-ob2u (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793782714173-pemb",
+      "timestamp": "2026-11-04T08:58:34.173Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423566-k9bk",
+      "timestamp": "2026-11-04T07:47:03.566Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793778423562-2h1o",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423565-1a0s",
+      "timestamp": "2026-11-04T07:47:03.565Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793778423562-2h1o status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423564-6gig",
+      "timestamp": "2026-11-04T07:47:03.564Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423564-f7qi",
+      "timestamp": "2026-11-04T07:47:03.564Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793778423562-2h1o",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793778423563-08m5",
+      "timestamp": "2026-11-04T07:47:03.563Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793778423562-j8jz",
+      "timestamp": "2026-11-04T07:47:03.562Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793778423562-2h1o status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423562-d4pm",
+      "timestamp": "2026-11-04T07:47:03.562Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793778423562-2h1o (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793778423560-mclg",
+      "timestamp": "2026-11-04T07:47:03.560Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768115-ilbx",
+      "timestamp": "2026-11-04T07:19:28.115Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793776768113-tyxw",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768115-4d99",
+      "timestamp": "2026-11-04T07:19:28.115Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793776768113-tyxw status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768114-zxsk",
+      "timestamp": "2026-11-04T07:19:28.114Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768114-4are",
+      "timestamp": "2026-11-04T07:19:28.114Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793776768113-tyxw",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793776768114-2xa3",
+      "timestamp": "2026-11-04T07:19:28.114Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793776768113-v3ok",
+      "timestamp": "2026-11-04T07:19:28.113Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793776768113-tyxw status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768113-4z6i",
+      "timestamp": "2026-11-04T07:19:28.113Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793776768113-tyxw (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776768112-zq5k",
+      "timestamp": "2026-11-04T07:19:28.112Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076997-81wk",
+      "timestamp": "2026-11-04T07:07:56.997Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1793776076993-jyrf",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076996-8g4n",
+      "timestamp": "2026-11-04T07:07:56.996Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793776076993-jyrf status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076995-xk7f",
+      "timestamp": "2026-11-04T07:07:56.995Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076995-8f73",
+      "timestamp": "2026-11-04T07:07:56.995Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1793776076993-jyrf",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1793776076995-vqgr",
+      "timestamp": "2026-11-04T07:07:56.995Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1793776076994-nm51",
+      "timestamp": "2026-11-04T07:07:56.994Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1793776076993-jyrf status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076993-5zkh",
+      "timestamp": "2026-11-04T07:07:56.993Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1793776076993-jyrf (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1793776076986-12ad",
+      "timestamp": "2026-11-04T07:07:56.986Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399388092-bh1w",
+      "timestamp": "2026-10-19T08:43:08.092Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792399388092-170s (Instagram, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399388091-m5qq",
+      "timestamp": "2026-10-19T08:43:08.091Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792399388091-urwi (Facebook, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399388089-vw8z",
+      "timestamp": "2026-10-19T08:43:08.089Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792399388089-09n0 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366531-8ybs",
+      "timestamp": "2026-10-19T08:42:46.531Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792399366520-tfbq",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366530-06ov",
+      "timestamp": "2026-10-19T08:42:46.530Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792399366520-tfbq status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366529-8k8s",
+      "timestamp": "2026-10-19T08:42:46.529Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366529-gfn4",
+      "timestamp": "2026-10-19T08:42:46.529Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792399366520-tfbq",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792399366528-gxr6",
+      "timestamp": "2026-10-19T08:42:46.528Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792399366528-7gau",
+      "timestamp": "2026-10-19T08:42:46.528Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792399366520-tfbq status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366520-rmgn",
+      "timestamp": "2026-10-19T08:42:46.520Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792399366520-tfbq (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792399366519-eyhj",
+      "timestamp": "2026-10-19T08:42:46.519Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242511004-ne5b",
+      "timestamp": "2026-10-17T13:08:31.004Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242511004-kel6 (Instagram, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242511003-u2bg",
+      "timestamp": "2026-10-17T13:08:31.003Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242511003-rcq8 (Facebook, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242511002-8t7e",
+      "timestamp": "2026-10-17T13:08:31.002Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242511002-vcw0 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494203-r27z",
+      "timestamp": "2026-10-17T13:08:14.203Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792242494200-o0v3",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494202-9yb3",
+      "timestamp": "2026-10-17T13:08:14.202Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792242494200-o0v3 status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494202-r4sp",
+      "timestamp": "2026-10-17T13:08:14.202Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494202-tcpa",
+      "timestamp": "2026-10-17T13:08:14.202Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792242494200-o0v3",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792242494201-m00y",
+      "timestamp": "2026-10-17T13:08:14.201Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792242494200-oick",
+      "timestamp": "2026-10-17T13:08:14.200Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792242494200-o0v3 status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494200-xggv",
+      "timestamp": "2026-10-17T13:08:14.200Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792242494200-o0v3 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242494195-oy3x",
+      "timestamp": "2026-10-17T13:08:14.195Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242420862-30fv",
+      "timestamp": "2026-10-17T13:07:00.862Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242420862-16c1 (Instagram, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242420862-xp67",
+      "timestamp": "2026-10-17T13:07:00.862Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242420862-h5eo (Facebook, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242420861-ecbu",
+      "timestamp": "2026-10-17T13:07:00.861Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792242420861-0kax (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403861-tafi",
+      "timestamp": "2026-10-17T13:06:43.861Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792242403840-gpfu",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403860-0eq6",
+      "timestamp": "2026-10-17T13:06:43.860Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792242403840-gpfu status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403842-l0a7",
+      "timestamp": "2026-10-17T13:06:43.842Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403842-9kw7",
+      "timestamp": "2026-10-17T13:06:43.842Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792242403840-gpfu",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792242403841-k5d2",
+      "timestamp": "2026-10-17T13:06:43.841Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792242403841-n799",
+      "timestamp": "2026-10-17T13:06:43.841Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792242403840-gpfu status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403840-6vkz",
+      "timestamp": "2026-10-17T13:06:43.840Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792242403840-gpfu (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792242403839-1t2w",
+      "timestamp": "2026-10-17T13:06:43.839Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241994293-8rf9",
+      "timestamp": "2026-10-17T12:59:54.293Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792241994293-86ez (Instagram, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241994292-ckkc",
+      "timestamp": "2026-10-17T12:59:54.292Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792241994292-3vt8 (Facebook, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241994292-99a1",
+      "timestamp": "2026-10-17T12:59:54.292Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792241994292-gjpn (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977158-aqum",
+      "timestamp": "2026-10-17T12:59:37.158Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792241977155-p35k",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977158-bqs3",
+      "timestamp": "2026-10-17T12:59:37.158Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792241977155-p35k status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977157-1b58",
+      "timestamp": "2026-10-17T12:59:37.157Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977157-d25m",
+      "timestamp": "2026-10-17T12:59:37.157Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792241977155-p35k",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792241977157-jo11",
+      "timestamp": "2026-10-17T12:59:37.157Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792241977156-5xz3",
+      "timestamp": "2026-10-17T12:59:37.156Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792241977155-p35k status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977155-0xsm",
+      "timestamp": "2026-10-17T12:59:37.155Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792241977155-p35k (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241977155-ch0u",
+      "timestamp": "2026-10-17T12:59:37.155Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944993-mt9k",
+      "timestamp": "2026-10-17T12:59:04.993Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792241944990-q9w7",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944992-tq5e",
+      "timestamp": "2026-10-17T12:59:04.992Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792241944990-q9w7 status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944991-byk3",
+      "timestamp": "2026-10-17T12:59:04.991Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944991-71rz",
+      "timestamp": "2026-10-17T12:59:04.991Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792241944990-q9w7",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792241944991-ewwg",
+      "timestamp": "2026-10-17T12:59:04.991Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792241944990-dt3s",
+      "timestamp": "2026-10-17T12:59:04.990Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792241944990-q9w7 status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944990-sjrq",
+      "timestamp": "2026-10-17T12:59:04.990Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792241944990-q9w7 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792241944989-w0sx",
+      "timestamp": "2026-10-17T12:59:04.989Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159628979-rzdg",
+      "timestamp": "2026-10-16T14:07:08.979Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792159628979-5dj0 (Instagram, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159628978-w2t1",
+      "timestamp": "2026-10-16T14:07:08.978Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792159628978-5mlc (Facebook, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159628977-1yjb",
+      "timestamp": "2026-10-16T14:07:08.977Z",
+      "action": "POST_CREATED",
+      "actor": "Test Runner",
+      "details": "Created draft post post-1792159628977-kzz6 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615297-1vve",
+      "timestamp": "2026-10-16T14:06:55.297Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792159615295-o0x8",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615297-auv7",
+      "timestamp": "2026-10-16T14:06:55.297Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792159615295-o0x8 status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615296-ta0o",
+      "timestamp": "2026-10-16T14:06:55.296Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615296-dh7o",
+      "timestamp": "2026-10-16T14:06:55.296Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792159615295-o0x8",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792159615296-9lt5",
+      "timestamp": "2026-10-16T14:06:55.296Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792159615296-g5kl",
+      "timestamp": "2026-10-16T14:06:55.296Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792159615295-o0x8 status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615295-au82",
+      "timestamp": "2026-10-16T14:06:55.295Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792159615295-o0x8 (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159615295-n531",
+      "timestamp": "2026-10-16T14:06:55.295Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571907-shzq",
+      "timestamp": "2026-10-16T14:06:11.907Z",
+      "action": "POST_DELETED",
+      "actor": "admin",
+      "details": "Deleted post post-1792159571906-5b9h",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571907-cm39",
+      "timestamp": "2026-10-16T14:06:11.907Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792159571906-5b9h status: scheduled",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571907-a3oo",
+      "timestamp": "2026-10-16T14:06:11.907Z",
+      "action": "GLOBAL_PAUSE_DEACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation RESUMED by administrator",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571907-wen6",
+      "timestamp": "2026-10-16T14:06:11.907Z",
+      "action": "PUBLISH_BLOCKED",
+      "actor": "admin",
+      "details": "Action blocked: Global pause active. Cannot schedule or publish post post-1792159571906-5b9h",
+      "status": "BLOCKED"
+    },
+    {
+      "id": "log-1792159571907-8124",
+      "timestamp": "2026-10-16T14:06:11.907Z",
+      "action": "GLOBAL_PAUSE_ACTIVATED",
+      "actor": "Test Runner",
+      "details": "Global publishing automation FROZEN by administrator",
+      "status": "WARNING"
+    },
+    {
+      "id": "log-1792159571906-67z4",
+      "timestamp": "2026-10-16T14:06:11.906Z",
+      "action": "POST_UPDATED",
+      "actor": "admin",
+      "details": "Updated post post-1792159571906-5b9h status: validated",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571906-dfzd",
+      "timestamp": "2026-10-16T14:06:11.906Z",
+      "action": "POST_CREATED",
+      "actor": "admin",
+      "details": "Created draft post post-1792159571906-5b9h (LinkedIn, en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-1792159571906-j0p3",
+      "timestamp": "2026-10-16T14:06:11.906Z",
+      "action": "CAMPAIGN_CREATED",
+      "actor": "admin",
+      "details": "Created campaign \"Automated Test Infrastructure Campaign\" under pillar \"Construction Chemicals & OCHEMI Admixtures\"",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-01",
+      "timestamp": "2026-10-15T09:00:00Z",
+      "action": "CONTENT_GENERATED",
+      "actor": "admin@oranex.com.et",
+      "details": "Generated LinkedIn post variant for campaign OCHEMI PCE 50% Launch (en)",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-02",
+      "timestamp": "2026-10-15T09:05:00Z",
+      "action": "POLICY_VALIDATION_PASSED",
+      "actor": "Server Policy Engine",
+      "details": "Post post-01 passed all 6 ground-truth verification checks with 0 critical issues.",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log-03",
+      "timestamp": "2026-10-15T11:00:00Z",
+      "action": "CONTENT_SCHEDULED",
+      "actor": "admin@oranex.com.et",
+      "details": "Scheduled post-02 for publishing on 2026-10-19T08:30:00Z (Facebook, am)",
+      "status": "SUCCESS"
+    }
+  ]
+}
