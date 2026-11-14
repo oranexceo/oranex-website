@@ -26,7 +26,7 @@ export interface BrandKnowledgeBase {
 export const APPROVED_ORANEX_KNOWLEDGE: BrandKnowledgeBase = {
   companyName: 'ORANEX',
   legalEntity: 'Oranex Trading One Member PLC',
-  headquarters: 'Bole Sub-City, Addis Ababa, Ethiopia',
+  headquarters: 'NSL Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia',
   internationalPartner: {
     name: 'Our Chinese partner',
     role: 'International Sourcing, Manufacturing Coordination & Export Supply Partner',

@@ -1246,7 +1246,7 @@ ${additionalNotes || 'Consolidated mixed container items as per approved merchan
                 </span>
                 <h3 className="text-xl font-black text-slate-900 mt-2">ORANEX TRADING ONE MEMBER PLC</h3>
                 <p className="text-xs text-slate-500">Commercial Registration No: AA/BOL/0019844/2016 • TIN: 0072948192</p>
-                <p className="text-xs text-slate-500">Bole Sub-City, Commercial Corridor, Addis Ababa, Ethiopia</p>
+                <p className="text-xs text-slate-500">NSL Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia</p>
                 <p className="text-xs text-slate-500">International Sourcing Alliance: <strong>Our Chinese partner</strong> (P.R. China)</p>
               </div>
 

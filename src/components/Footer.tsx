@@ -94,15 +94,15 @@ export const Footer: React.FC = () => {
           <div className="pt-2 space-y-2 text-xs">
             <div className="flex items-center gap-2 text-slate-300">
               <MapPin className="w-4 h-4 text-blue-500 shrink-0" />
-              <span>Bole Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia</span>
+              <span>NSL Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia</span>
             </div>
             <div className="flex items-center gap-2 text-slate-300">
               <Phone className="w-4 h-4 text-blue-500 shrink-0" />
-              <span>+251 11 667 8901 / +251 91 123 4567</span>
+              <span>+251 91 223 3688 / +251 96 863 6371</span>
             </div>
             <div className="flex items-center gap-2 text-slate-300">
               <Mail className="w-4 h-4 text-blue-500 shrink-0" />
-              <span>procurement@oranextrading.com / info@oranex.et</span>
+              <span>www.oranex.com.et</span>
             </div>
           </div>
         </div>

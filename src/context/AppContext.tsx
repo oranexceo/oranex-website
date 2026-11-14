@@ -104,7 +104,7 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 const COMPANY_INFO: CompanyInfo = {
   phone: '+251 912 233 688',
   email: 'Oranexceo@gmail.com',
-  address: 'Bole Sub-City, Commercial Corridor, Addis Ababa, Ethiopia',
+  address: 'NSL Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia',
   whatsapp: '+251912233688',
   whatsappNumber: '+251912233688'
 };

@@ -56,7 +56,7 @@ export const ContactView: React.FC = () => {
                 <MapPin className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
                 <div>
                   <strong className="text-slate-900 block">Addis Ababa Headquarters:</strong>
-                  Bole Sub-City, Commercial Corridor, Addis Ababa, Ethiopia.
+                  NSL Sub-City, Addis Ababa, Federal Democratic Republic of Ethiopia.
                 </div>
               </div>
 
@@ -82,7 +82,7 @@ export const ContactView: React.FC = () => {
                 <Mail className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
                 <div>
                   <strong className="text-slate-900 block">Email:</strong>
-                  <span>Oranexceo@gmail.com / procurement@oranextrading.com</span>
+                  <span>Oranexceo@gmail.com / www.oranex.com.et</span>
                 </div>
               </div>
 
