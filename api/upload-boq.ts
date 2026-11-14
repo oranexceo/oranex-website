@@ -1,7 +1,6 @@
 import type { IncomingMessage, ServerResponse } from 'http';
 import crypto from 'crypto';
 import pg from 'pg';
-import fs from 'fs';
 
 const { Pool } = pg;
 
@@ -23,27 +22,11 @@ const MAX_FILE_SIZE = 52428800; // 50 MB
 let pgPool: pg.Pool | null = null;
 
 function getDbUrl(): string | undefined {
-  if (process.env.DATABASE_URL) return process.env.DATABASE_URL;
-  if (fs.existsSync('.env.example')) {
-    try {
-      const content = fs.readFileSync('.env.example', 'utf-8');
-      const match = content.match(/^DATABASE_URL=(.+)$/m);
-      if (match) return match[1].trim();
-    } catch {}
-  }
-  return undefined;
+  return process.env.DATABASE_URL || undefined;
 }
 
 function getAdminSecret(): string | undefined {
-  if (process.env.ADMIN_SECRET_KEY) return process.env.ADMIN_SECRET_KEY;
-  if (fs.existsSync('.env.example')) {
-    try {
-      const content = fs.readFileSync('.env.example', 'utf-8');
-      const match = content.match(/^ADMIN_SECRET_KEY=(.+)$/m);
-      if (match) return match[1].trim();
-    } catch {}
-  }
-  return undefined;
+  return process.env.ADMIN_SECRET_KEY || undefined;
 }
 
 function getSupabaseConfig() {

@@ -1,33 +1,16 @@
 import type { IncomingMessage, ServerResponse } from 'http';
 import pg from 'pg';
 
-import fs from 'fs';
 import crypto from 'crypto';
 
 const { Pool } = pg;
 
 function getDbUrl(): string | undefined {
-  if (process.env.DATABASE_URL) return process.env.DATABASE_URL;
-  if (fs.existsSync('.env.example')) {
-    try {
-      const content = fs.readFileSync('.env.example', 'utf-8');
-      const match = content.match(/^DATABASE_URL=(.+)$/m);
-      if (match) return match[1].trim();
-    } catch {}
-  }
-  return undefined;
+  return process.env.DATABASE_URL || undefined;
 }
 
 function getAdminSecret(): string | undefined {
-  if (process.env.ADMIN_SECRET_KEY) return process.env.ADMIN_SECRET_KEY;
-  if (fs.existsSync('.env.example')) {
-    try {
-      const content = fs.readFileSync('.env.example', 'utf-8');
-      const match = content.match(/^ADMIN_SECRET_KEY=(.+)$/m);
-      if (match) return match[1].trim();
-    } catch {}
-  }
-  return undefined;
+  return process.env.ADMIN_SECRET_KEY || undefined;
 }
 
 interface LeadPayload {
